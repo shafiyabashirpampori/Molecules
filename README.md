@@ -471,13 +471,15 @@ pytest tests/ -v
 ## 📜 Citation & Intellectual Property
 
 ```bibtex
-@article{rasool2026moleculeai,
-  title={Molecule-AI: Deep Spectral Representation & Candidate Retrieval Platform for 2D Chemical Structure Prediction},
-  author={Rasool, Dar Rehan and Assad, Dr. Asif* and Shah, Muneeb Syed and Pampori, Shafiya Bashir},
-  affiliation={Centre of Artificial Intelligence & Department of Computer Science and Engineering, Islamic University of Science and Technology (IUST), Awantipora, Kashmir, India},
-  journal={CASMI 2026 Benchmark Suite},
-  year={2026},
-  note={Copyright \copyright 2026 Dar Rehan Rasool (@darrehanrasool). All Rights Reserved.}
+@software{rasool2026moleculeai,
+  title = {Molecule-AI: Deep Spectral Representation & Candidate Retrieval Platform for 2D Chemical Structure Prediction},
+  author = {Rasool, Dar Rehan and Assad, Dr. Asif and Shah, Muneeb Syed and Pampori, Shafiya Bashir},
+  affiliation = {Centre for Artificial Intelligence & Department of Computer Science and Engineering, Islamic University of Science and Technology (IUST), Awantipora, Kashmir, India},
+  publisher = {Zenodo / GitHub},
+  year = {2026},
+  version = {1.0.0},
+  url = {https://github.com/darrehanrasool/Molecules},
+  note = {Open-source molecular deep learning framework. ORCID: 0009-0004-6426-5195}
 }
 ```
 
