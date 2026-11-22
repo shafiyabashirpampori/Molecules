@@ -1,0 +1,31 @@
+{
+  "title": "Molecule-AI: Computational Graph Neural Networks and Attention Models for Molecular Property Prediction and Drug Target Interaction",
+  "description": "An advanced deep learning framework leveraging Graph Neural Networks (GNN) and attention architectures for molecular docking, ADMET profiling, and drug discovery.",
+  "creators": [
+    {
+      "name": "Rasool, Dar Rehan",
+      "affiliation": "Centre for Artificial Intelligence, Islamic University of Science and Technology (IUST), Kashmir",
+      "orcid": "0009-0004-6426-5195"
+    },
+    {
+      "name": "Assad, Dr. Asif",
+      "affiliation": "Department of Computer Science & Engineering, Islamic University of Science and Technology (IUST), Kashmir"
+    },
+    {
+      "name": "Shah, Muneeb Syed",
+      "affiliation": "Centre for Artificial Intelligence, Islamic University of Science and Technology (IUST), Kashmir"
+    },
+    {
+      "name": "Pampori, Shafiya Bashir",
+      "affiliation": "Centre for Artificial Intelligence, Islamic University of Science and Technology (IUST), Kashmir"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "molecular-design",
+    "graph-neural-networks",
+    "drug-discovery",
+    "bioinformatics"
+  ]
+}
