@@ -1,5 +1,18 @@
 # Metric Evaluation: Mean Reciprocal Rank @ 25 (MRR@25) & InChIKey14 Matching
 
+**Islamic University of Science & Technology (IUST), Kashmir**  
+*Department of Computer Science & Engineering · Centre for Artificial Intelligence (CAI)*
+
+---
+
+### 👥 Research Team & Authorship
+- **Faculty Research Supervisor**: **Dr. Asif Assad\*** (*Senior Assistant Professor & Faculty Supervisor, Dept. of CSE, IUST*)
+- **Lead Author & Principal Researcher**: **Dar Rehan Rasool** (*M.Tech Student, Centre for Artificial Intelligence, IUST*)
+- **Contributing Researcher**: **Muneeb Syed Shah** (*M.Tech Student, Centre for Artificial Intelligence, IUST*)
+- **Contributing Researcher**: **Shafiya Bashir Pampori** (*M.Tech Student, Centre for Artificial Intelligence, IUST*)
+
+---
+
 ## Overview
 
 In the **Enveda CASMI 2026** competition, models are evaluated using **Mean Reciprocal Rank @ 25 (MRR@25)**. This metric measures the rank position of the first correct 2D chemical structure candidate within a list of up to 25 ranked guesses.

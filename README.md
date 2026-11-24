@@ -16,6 +16,9 @@
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Project Lead](https://img.shields.io/badge/Project%20Lead-Dar%20Rehan%20Rasool-0284c7.svg)](https://github.com/darrehanrasool)
+[![Contributing Student](https://img.shields.io/badge/Contributing%20Student-Muneeb%20Syed%20Shah-blue.svg)](https://github.com/muneebsyed-oss)
+[![Contributing Student](https://img.shields.io/badge/Contributing%20Student-Shafiya%20Bashir%20Pampori-blue.svg)](https://github.com/shafiyabashirpampori)
+[![Faculty Supervisor](https://img.shields.io/badge/Faculty%20Supervisor-Dr.%20Asif%20Assad-darkblue.svg)](https://github.com/darrehanrasool/Molecules)
 [![Copyright](https://img.shields.io/badge/Copyright-%40darrehanrasool-10b981.svg)](https://github.com/darrehanrasool)
 
 A production-grade, end-to-end Machine Learning laboratory and research platform that solves the ill-posed chemical inverse problem of small molecule structure elucidation from tandem mass spectrometry ($\text{LC-MS/MS}$). Engineered for the **Enveda CASMI 2026 Challenge** (*Molecule ID from Mass Spectra*), it projects collision-induced dissociation ($\text{CID}$) spectra into a dense $12,001$-dimensional spectral representation, regresses $2048$-bit Morgan circular fingerprints ($\text{ECFP4}$), and executes sub-ppm monoisotopic precursor mass deconvolution ($\pm 15\,\text{ppm}$) across a curated repository of **717,000+ unified natural product chemical structures** with planar skeleton $\text{InChIKey14}$ deduplication.

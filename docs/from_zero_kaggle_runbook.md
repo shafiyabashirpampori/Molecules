@@ -1,5 +1,18 @@
 # CASMI 2026 From-Zero Kaggle Runbook
 
+**Islamic University of Science & Technology (IUST), Kashmir**  
+*Department of Computer Science & Engineering · Centre for Artificial Intelligence (CAI)*
+
+---
+
+### 👥 Research Team & Authorship
+- **Faculty Research Supervisor**: **Dr. Asif Assad\*** (*Senior Assistant Professor & Faculty Supervisor, Dept. of CSE, IUST*)
+- **Lead Author & Principal Researcher**: **Dar Rehan Rasool** (*M.Tech Student, Centre for Artificial Intelligence, IUST*)
+- **Contributing Researcher**: **Muneeb Syed Shah** (*M.Tech Student, Centre for Artificial Intelligence, IUST*)
+- **Contributing Researcher**: **Shafiya Bashir Pampori** (*M.Tech Student, Centre for Artificial Intelligence, IUST*)
+
+---
+
 ## Purpose
 
 `notebooks/CASMI2026_From_Zero_End_To_End.ipynb` is the clean experimental

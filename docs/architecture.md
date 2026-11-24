@@ -1,5 +1,18 @@
 # Platform Architecture & Pipeline Design
 
+**Islamic University of Science & Technology (IUST), Kashmir**  
+*Department of Computer Science & Engineering · Centre for Artificial Intelligence (CAI)*
+
+---
+
+### 👥 Research Team & Authorship
+- **Faculty Research Supervisor**: **Dr. Asif Assad\*** (*Senior Assistant Professor & Faculty Supervisor, Dept. of CSE, IUST*)
+- **Lead Author & Principal Researcher**: **Dar Rehan Rasool** (*M.Tech Student, Centre for Artificial Intelligence, IUST*)
+- **Contributing Researcher**: **Muneeb Syed Shah** (*M.Tech Student, Centre for Artificial Intelligence, IUST*)
+- **Contributing Researcher**: **Shafiya Bashir Pampori** (*M.Tech Student, Centre for Artificial Intelligence, IUST*)
+
+---
+
 ## End-to-End Inference Pipeline
 
 The solution pipeline is structured into five loosely coupled, modular stages designed to run offline within Kaggle's 9-hour runtime constraint:

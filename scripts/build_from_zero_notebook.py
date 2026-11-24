@@ -23,6 +23,21 @@ cells = [
         r"""
 # CASMI 2026 — From-Zero, Reproducible End-to-End ML Pipeline
 
+**Islamic University of Science & Technology (IUST), Kashmir**  
+*Department of Computer Science & Engineering · Centre for Artificial Intelligence (CAI)*
+
+---
+
+### 👥 Research Team & Academic Authorship
+| Role | Name | Designation & Affiliation | Research & Project Contribution |
+| :--- | :--- | :--- | :--- |
+| **Faculty Research Supervisor** | **Dr. Asif Assad*** | Senior Assistant Professor & Faculty Supervisor, Dept. of CSE, IUST | Project Supervision, Research Direction, Theoretical Review & Methodological Oversight |
+| **Lead Author & Principal Researcher** | **Dar Rehan Rasool** | M.Tech Student, Centre for Artificial Intelligence, IUST | End-to-End System Architecture, SpectrumFPNet Model, Out-of-Core Big-Data Streaming, Candidate Retrieval & Dashboard |
+| **Contributing Researcher** | **Muneeb Syed Shah** | M.Tech Student, Centre for Artificial Intelligence, IUST | Mass Spectrometry Data Preprocessing, Adduct Formulation, Feature Engineering |
+| **Contributing Researcher** | **Shafiya Bashir Pampori** | M.Tech Student, Centre for Artificial Intelligence, IUST | Chemical Candidate Filtering, Tanimoto Verification & Statistical Benchmark Validation |
+
+---
+
 This notebook is the clean experimental run for the Kaggle molecule-identification
 problem. It deliberately does not trust historical metrics. Every result is
 generated from the data attached to the current Kaggle run and is saved under
